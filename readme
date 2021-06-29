@@ -1,0 +1,23 @@
+rch
+
+const Component = () => {
+    
+}
+
+export default Component;
+
+rce
+
+import React, { Component } from 'react'
+
+export class Component extends Component {
+    render() {
+        return (
+            <div>
+                
+            </div>
+        )
+    }
+}
+
+export default Component
